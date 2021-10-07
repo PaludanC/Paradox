@@ -2,8 +2,8 @@
 # THIS IS BETA VERSION DON'T USE IN PRODUCTION
 Torch is a community-made Space Engineers dedicated server that gives server owners powerful tools to make server maintenance easier
 
-Many parts of this egg are based on the work of [mmmaxwwwell](https://github.com/mmmaxwwwell/space-engineers-dedicated-docker-linux). A thank you therefore goes to him.
-Many parts of this egg are based on the work of [parkervcp](https://github.com/parkervcp/eggs). A thank you therefore goes to him.
+Many parts of this egg are based on the work of [mmmaxwwwell](https://github.com/mmmaxwwwell/space-engineers-dedicated-docker-linux). A thank you therefore goes to him. 
+<br/>And many thanks to [parkervcp](https://github.com/parkervcp/eggs).
 
 **NOTE**
 Because of the winetricks installation, the install process could take some time. Likewise, the first start of the server takes its time.
